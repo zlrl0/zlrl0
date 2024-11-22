@@ -196,10 +196,9 @@ Instagram 데이터를 활용하여 텍스트 분석과 이미지 분석을 통�
 <br>
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zlrl0" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zlrl0&layout=compact" />
-</p>
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zlrl0)](https://github.com/anuraghazra/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={zlrl0})
+ 
 
 <br>
 <br>

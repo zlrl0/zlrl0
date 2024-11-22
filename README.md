@@ -25,6 +25,25 @@
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
+<h6 align="center">💻 Data Analysis</h6>
+<div align="center">
+  <img src="https://img.shields.io/badge/R-90d5eb?style=for-the-badge&logo=r&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=Google%20Colab&logoColor=white" />&nbsp
+</div>
+
+<h6 align="center">🎮 Game</h6>
+<div align="center">
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />&nbsp
+</div>
+
+<h6 align="center">⚙ Tool</h6>
+<div align="center">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/></a>&nbsp
+</div>
+
+<br>
+
 
 <h3 align="center">✨ Project</h3>
 <div align="center">

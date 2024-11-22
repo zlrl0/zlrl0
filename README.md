@@ -6,17 +6,60 @@
   </a>
 </p>
 
-<h3 align="center">🛠 Tech Stack </h3>
+<h3 align="center">🛠 Tech Stack</h3>
+
 <div align="center">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyCharm-239120?style=for-the-badge&logo=PyCharm&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
   <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/R-90d5eb?style=for-the-badge&logo=r&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=Google%20Colab&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />&nbsp
+</div>
+
+<br>
+
+<h3 align="center">✨ Project</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</div>
+
+<br> 
+
+<h3 align="center">📫 Contact</h3>
+<div align="center">
+  <a href="https://www.instagram.com/hi180102/">
+    <img 
+      src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />&nbsp
+  </a>
+  <a href="mailto:jungjieun2002@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp
+  </a>
+  <a href="mailto:skywtj@cau.ac.kr">
+    <img
+      src="https://img.shields.io/badge/CAU-0078D4?style=for-the-badge&logo=minutemailer&logoColor=white" />&nbsp
+  </a>
+</div>
+
+<br>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{zlrl0}" width="1000" height="250"/>
+</a>
+
 
 
 

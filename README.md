@@ -6,7 +6,7 @@
   </a>
 </p>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zlr0)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?zlrl0=zlr0)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **zlrl0/zlrl0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
